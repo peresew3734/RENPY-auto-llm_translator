@@ -1,6 +1,6 @@
-# Ren'Py LLM Auto-Translator - Ultimate User Guide
+# Ren'Py LLM Auto-Translator 
 
-Welcome to the Ren'Py LLM Auto-Translator! This tool allows you to seamlessly translate any Ren'Py visual novel in real-time using local, uncensored AI models. Everything runs offline on your PC, ensuring total privacy and exact, unfiltered translations.
+This tool allows you to seamlessly translate any Ren'Py visual novel in real-time using local, uncensored AI models. Everything runs offline on your PC, ensuring total privacy and exact, unfiltered translations.
 
 ---
 
